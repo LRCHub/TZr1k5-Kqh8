@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "魔法のように",
+  "base_artist": "SHISHAMO",
+  "createdAt": "2026-04-05T11:11:28.634313Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "魔法のように",
+      "artist": "SHISHAMO",
+      "has_synced": true,
+      "path": "select/01_魔法のように_SHISHAMO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "魔法のように - Mahouno Youni",
+      "artist": "SHISHAMO",
+      "has_synced": true,
+      "path": "select/02_魔法のように_-_Mahouno_Youni_SHISHAMO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "魔法のように",
+      "artist": "Bray me",
+      "has_synced": true,
+      "path": "select/03_魔法のように_Bray_me.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "魔法のように",
+      "artist": "SHISHAMO",
+      "has_synced": true,
+      "path": "select/04_魔法のように_SHISHAMO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "魔法のように",
+      "artist": "SHISHAMO",
+      "has_synced": false,
+      "path": "select/pl_01_魔法のように_SHISHAMO.txt"
+    }
+  ]
+}
